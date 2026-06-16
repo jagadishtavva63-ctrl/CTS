@@ -1,0 +1,1 @@
+// Employee model\npublic class Employee {\n  public int Id { get; set; }\n  public string Name { get; set; }\n}

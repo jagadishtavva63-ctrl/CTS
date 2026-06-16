@@ -1,0 +1,1 @@
+// Main entry point\nusing System;\nclass Program {\n  static void Main() {\n    Console.WriteLine(\"Hello from CSharp\");\n  }\n}
