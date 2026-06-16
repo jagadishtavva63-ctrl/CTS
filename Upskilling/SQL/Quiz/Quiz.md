@@ -1,31 +1,39 @@
 # SQL Quiz
 
-1. What does SQL stand for?
-Answer: Structured Query Language
+1. **MCQ**: What does SQL stand for?
+   - A) Structured Query Language
+   - B) Strong Question Language
+   - **Answer**: A
 
-2. Which SQL statement is used to extract data from a database?
-Answer: SELECT
+2. **True/False**: `INSERT` is a DDL command.
+   - **Answer**: False (It's DML).
 
-3. Which SQL statement is used to update data in a database?
-Answer: UPDATE
+3. **Short Answer**: Which command extracts data?
+   - **Answer**: `SELECT`
 
-4. Which SQL statement is used to delete data from a database?
-Answer: DELETE
+4. **MCQ**: How to select a column named "FirstName" from "Persons"?
+   - A) `SELECT Persons.FirstName`
+   - B) `SELECT FirstName FROM Persons`
+   - **Answer**: B
 
-5. Which SQL statement is used to insert new data in a database?
-Answer: INSERT INTO
+5. **True/False**: `UPDATE` statement is used to modify existing data.
+   - **Answer**: True
 
-6. With SQL, how do you select a column named "FirstName" from a table named "Persons"?
-Answer: `SELECT FirstName FROM Persons`
+6. **Short Answer**: How to select all records?
+   - **Answer**: `SELECT *`
 
-7. With SQL, how do you select all the columns from a table named "Persons"?
-Answer: `SELECT * FROM Persons`
+7. **MCQ**: Which keyword sorts the result-set?
+   - A) ORDER BY
+   - B) SORT
+   - **Answer**: A
 
-8. With SQL, how do you select all the records from a table named "Persons" where the value of the column "FirstName" is "Peter"?
-Answer: `SELECT * FROM Persons WHERE FirstName='Peter'`
+8. **True/False**: A table can have multiple Primary Keys.
+   - **Answer**: False (Only one PK, though it can consist of multiple columns).
 
-9. With SQL, how do you select all the records from a table named "Persons" where the value of the column "FirstName" starts with an "a"?
-Answer: `SELECT * FROM Persons WHERE FirstName LIKE 'a%'`
+9. **Short Answer**: Which operator checks for a pattern?
+   - **Answer**: `LIKE`
 
-10. The OR operator displays a record if ANY conditions listed are true. The AND operator displays a record if ALL of the conditions listed are true
-Answer: True
+10. **MCQ**: What is the result of `COUNT(*)`?
+    - A) Number of columns
+    - B) Number of rows
+    - **Answer**: B

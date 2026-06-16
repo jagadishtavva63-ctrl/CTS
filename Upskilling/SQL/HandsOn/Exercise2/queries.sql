@@ -1,1 +1,2 @@
--- Insert and select\nINSERT INTO Employees2 VALUES (1, 'Alice');\nSELECT * FROM Employees2;
+INSERT INTO Products VALUES (1, 99.99);
+SELECT * FROM Products WHERE Price > 50;

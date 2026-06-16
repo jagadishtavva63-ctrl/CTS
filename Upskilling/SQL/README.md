@@ -1,22 +1,20 @@
 # SQL
 
-## Learning Objectives
-* Understand the core concepts of SQL
-* Apply SQL in real-world scenarios
-* Prepare for interview questions
+**Overview**: Structured Query Language used to communicate with databases.
 
-## Topics Covered
-* Introduction and Basics
-* Advanced Features
-* Practical Implementations
+**Topics Covered**:
+- DDL (Create, Alter, Drop)
+- DML (Insert, Update, Delete)
+- Joins
+- Aggregate Functions
 
-## Folder Structure
-* `Notes/`: Important concepts and syntax
-* `HandsOn/`: Code exercises
-* `Assignments/`: Practice problems
-* `Quiz/`: Interview-style questions
-* `Screenshots/`: Execution outputs
+**Folder Structure**:
+- `Notes/`
+- `HandsOn/`
+- `Assignments/`
+- `Quiz/`
+- `Screenshots/`
 
-## References
-* W3Schools
-* Official Documentation
+**References**:
+- W3Schools SQL
+- SQL Server Docs

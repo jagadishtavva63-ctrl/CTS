@@ -1,1 +1,2 @@
--- Insert and select\nINSERT INTO Employees3 VALUES (1, 'Alice');\nSELECT * FROM Employees3;
+INSERT INTO Orders VALUES (1, 100), (2, 200);
+SELECT SUM(Amount) FROM Orders;
