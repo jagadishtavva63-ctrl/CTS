@@ -1,1 +1,1 @@
-// Database helper methods\npublic class DatabaseHelper {\n  // connection logic\n}
+public class DatabaseHelper { }

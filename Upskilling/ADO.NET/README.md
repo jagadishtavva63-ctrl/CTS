@@ -1,22 +1,19 @@
 # ADO.NET
 
-## Learning Objectives
-* Understand the core concepts of ADO.NET
-* Apply ADO.NET in real-world scenarios
-* Prepare for interview questions
+**Overview**: Data access technology in .NET framework used to connect to databases.
 
-## Topics Covered
-* Introduction and Basics
-* Advanced Features
-* Practical Implementations
+**Topics Covered**:
+- Connection Strings
+- SqlConnection & SqlCommand
+- SqlDataReader
+- CRUD Operations
 
-## Folder Structure
-* `Notes/`: Important concepts and syntax
-* `HandsOn/`: Code exercises
-* `Assignments/`: Practice problems
-* `Quiz/`: Interview-style questions
-* `Screenshots/`: Execution outputs
+**Folder Structure**:
+- `Notes/`
+- `HandsOn/`
+- `Assignments/`
+- `Quiz/`
+- `Screenshots/`
 
-## References
-* W3Schools
-* Official Documentation
+**References**:
+- Microsoft ADO.NET Architecture

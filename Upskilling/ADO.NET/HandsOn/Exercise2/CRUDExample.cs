@@ -1,1 +1,1 @@
-// CRUD operations\npublic class CRUDExample {\n  // insert, update, delete logic\n}
+public class CRUDExample { public void Insert() {} }

@@ -1,17 +1,28 @@
 # ADO.NET Notes
 
-## SqlConnection
-`using (SqlConnection conn = new SqlConnection(connectionString))`
-Used to establish a connection to SQL Server.
+### Core Objects
+* **SqlConnection**: Establishes link to DB.
+* **SqlCommand**: Executes queries (SELECT, INSERT, etc.).
+* **SqlDataReader**: Reads data stream (fast, forward-only).
+* **SqlDataAdapter**: Fills a DataSet for disconnected architecture.
 
-## SqlCommand
-`SqlCommand cmd = new SqlCommand(query, conn);`
-Used to execute SQL queries and stored procedures.
+### Connection String
+Usually stored in `appsettings.json` or `App.config`.
+`"Server=myServer;Database=myDB;User Id=myUser;Password=myPassword;"`
 
-## SqlDataReader
-// Read data sequentially
-`while(reader.Read()) { ... }`
-Used for fast, forward-only reading of data.
+### Using Statement
+Always wrap connections in `using` blocks to ensure they close automatically, even if an error occurs.
+```csharp
+using (SqlConnection conn = new SqlConnection(connString)) {
+   conn.Open();
+   // do work
+} // conn.Close() happens automatically here
+```
 
-## SqlDataAdapter
-Used to fill a `DataSet` or `DataTable` for disconnected data access.
+### Common Mistakes
+* Not closing the connection (leads to connection pool exhaustion).
+* String concatenation for queries (leads to SQL Injection). ALWAYS use parameters.
+
+### Interview Tips
+* **Q**: ExecuteScalar vs ExecuteNonQuery?
+  * **A**: `ExecuteScalar` returns a single value (like from COUNT). `ExecuteNonQuery` returns the number of rows affected (used for INSERT/UPDATE/DELETE).

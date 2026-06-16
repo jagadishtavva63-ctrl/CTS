@@ -1,31 +1,39 @@
 # ADO.NET Quiz
 
-1. What is ADO.NET?
-Answer: A data access technology from the Microsoft .NET Framework.
+1. **MCQ**: What namespace is used for SQL Server?
+   - A) System.Data.OleDb
+   - B) System.Data.SqlClient
+   - **Answer**: B
 
-2. Which namespace is used for SQL Server data access?
-Answer: `System.Data.SqlClient`
+2. **True/False**: DataReader is disconnected.
+   - **Answer**: False (It requires an active connection).
 
-3. What object is used to establish a connection to a database?
-Answer: `SqlConnection`
+3. **Short Answer**: Which object acts as a bridge between DB and DataSet?
+   - **Answer**: `SqlDataAdapter`
 
-4. What object is used to execute a query against a database?
-Answer: `SqlCommand`
+4. **MCQ**: Method used for INSERT queries?
+   - A) ExecuteReader()
+   - B) ExecuteNonQuery()
+   - **Answer**: B
 
-5. What method of SqlCommand executes a query that returns no rows (like INSERT or UPDATE)?
-Answer: `ExecuteNonQuery()`
+5. **True/False**: Parameterized queries prevent SQL injection.
+   - **Answer**: True
 
-6. What method of SqlCommand returns a single value?
-Answer: `ExecuteScalar()`
+6. **Short Answer**: What interface must connection classes implement?
+   - **Answer**: `IDbConnection`
 
-7. What is SqlDataReader used for?
-Answer: Reading a forward-only stream of rows from a data source.
+7. **MCQ**: Method returning a single value from DB?
+   - A) ExecuteScalar()
+   - B) ExecuteSingle()
+   - **Answer**: A
 
-8. True or False: SqlDataAdapter provides the bridge between a DataSet and data source for retrieving and saving data.
-Answer: True
+8. **True/False**: You must explicitly close connections if not using a `using` block.
+   - **Answer**: True
 
-9. What is a connection string?
-Answer: A string that specifies information about a data source and the means of connecting to it.
+9. **Short Answer**: Information used to connect to DB?
+   - **Answer**: Connection String
 
-10. How do you prevent SQL Injection in ADO.NET?
-Answer: By using parameterized queries.
+10. **MCQ**: DataSet can contain multiple tables?
+    - A) Yes
+    - B) No
+    - **Answer**: A

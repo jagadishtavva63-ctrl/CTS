@@ -1,11 +1,31 @@
-# Assignment 2
+# Assignment 2: Parameterized Insert
 
-## Problem Statement
-Create a practical example demonstrating ADO.NET basics.
+**Problem Statement**: Safely insert a new record into the database without SQL injection risk.
 
-## Solution
-// Implemented logic for ADO.NET assignment 2.
-// Ensures all requirements are met cleanly.
+**Concepts Used**: Parameters, ExecuteNonQuery.
 
-## Expected Output
-The code executes and produces the correct result as taught in notes.
+**Solution**:
+```csharp
+// CRUDExample.cs
+using System;
+using System.Data.SqlClient;
+
+public class CRUDExample {
+    public void InsertUser(string name) {
+        string connStr = "Server=localhost;Database=TestDB;Integrated Security=true;";
+        using (SqlConnection conn = new SqlConnection(connStr)) {
+            conn.Open();
+            // Use @Name parameter
+            SqlCommand cmd = new SqlCommand("INSERT INTO Users (Name) VALUES (@Name)", conn);
+            cmd.Parameters.AddWithValue("@Name", name);
+            
+            int rows = cmd.ExecuteNonQuery();
+            Console.WriteLine($"{rows} row(s) inserted.");
+        }
+    }
+}
+```
+
+**Expected Output**: Prints "1 row(s) inserted."
+
+**Short Explanation**: Using `@Name` and `Parameters.AddWithValue` protects against malicious input, treating it strictly as a value, not executable SQL.

@@ -1,1 +1,6 @@
-// Main entry point\nusing System;\nclass Program {\n  static void Main() {\n    Console.WriteLine(\"ADO.NET Demo\");\n  }\n}
+using System;
+class Program {
+  static void Main() {
+    Console.WriteLine("Inserting data...");
+  }
+}
