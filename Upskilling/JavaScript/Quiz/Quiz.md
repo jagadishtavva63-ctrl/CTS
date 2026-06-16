@@ -1,31 +1,59 @@
 # JavaScript Quiz
 
-1. Inside which HTML element do we put the JavaScript?
-Answer: `<script>`
+1. **MCQ**: Which keyword is used to declare a constant variable?
+   - A) var
+   - B) let
+   - C) const
+   - **Answer**: C
 
-2. Where is the correct place to insert a JavaScript?
-Answer: Both the `<head>` section and the `<body>` section are correct
+2. **True/False**: `null` is an object in JavaScript.
+   - **Answer**: True (It's a known bug in JS).
 
-3. What is the correct syntax for referring to an external script called "xxx.js"?
-Answer: `<script src="xxx.js">`
+3. **Short Answer**: Which method is used to write text into the browser console?
+   - **Answer**: `console.log()`
 
-4. How do you write "Hello World" in an alert box?
-Answer: `alert("Hello World");`
+4. **MCQ**: `10 === "10"` evaluates to?
+   - A) true
+   - B) false
+   - **Answer**: B
 
-5. How do you create a function in JavaScript?
-Answer: `function myFunction()`
+5. **True/False**: Arrays are zero-indexed.
+   - **Answer**: True
 
-6. How do you call a function named "myFunction"?
-Answer: `myFunction()`
+6. **Short Answer**: How do you find the length of a string `txt`?
+   - **Answer**: `txt.length`
 
-7. How to write an IF statement in JavaScript?
-Answer: `if (i == 5)`
+7. **MCQ**: What does JSON stand for?
+   - A) JavaScript Object Notation
+   - B) Java Standard Output Network
+   - **Answer**: A
 
-8. How does a FOR loop start?
-Answer: `for (i = 0; i <= 5; i++)`
+8. **True/False**: Functions can be passed as arguments to other functions.
+   - **Answer**: True (They are first-class citizens).
 
-9. How can you add a comment in a JavaScript?
-Answer: `//This is a comment`
+9. **Short Answer**: Method to remove the last element of an array?
+   - **Answer**: `pop()`
 
-10. What is the correct way to write a JavaScript array?
-Answer: `var colors = ["red", "green", "blue"]`
+10. **MCQ**: `typeof NaN` returns?
+    - A) number
+    - B) string
+    - C) undefined
+    - **Answer**: A
+
+11. **True/False**: Promises represent the eventual completion of an async operation.
+    - **Answer**: True
+
+12. **Short Answer**: Method to parse a JSON string into a JS object?
+    - **Answer**: `JSON.parse()`
+
+13. **MCQ**: Which is not a JS framework?
+    - A) React
+    - B) Angular
+    - C) Django
+    - **Answer**: C
+
+14. **True/False**: `setTimeout` pauses the entire execution of code.
+    - **Answer**: False (It's asynchronous).
+
+15. **Short Answer**: How to add a comment in JS?
+    - **Answer**: `// comment`

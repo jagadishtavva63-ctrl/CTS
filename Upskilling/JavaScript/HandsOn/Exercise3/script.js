@@ -1,1 +1,5 @@
-// JavaScript logic\nconsole.log('JavaScript Exercise 3 loaded');
+let count = 0;
+setInterval(() => {
+  count++;
+  document.getElementById('timer').innerText = count;
+}, 1000);

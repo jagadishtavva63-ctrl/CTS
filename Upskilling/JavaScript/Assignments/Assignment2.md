@@ -1,11 +1,35 @@
-# Assignment 2
+# Assignment 2: To-Do List
 
-## Problem Statement
-Create a practical example demonstrating JavaScript basics.
+**Problem Statement**: Create an input field and button. Clicking the button adds the text as a list item.
 
-## Solution
-// Implemented logic for JavaScript assignment 2.
-// Ensures all requirements are met cleanly.
+**Concepts Used**: `createElement`, `appendChild`.
 
-## Expected Output
-The code executes and produces the correct result as taught in notes.
+**Solution**:
+```html
+<!DOCTYPE html>
+<html>
+<body>
+  <input type="text" id="task">
+  <button id="addBtn">Add Task</button>
+  <ul id="list"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>
+```
+```javascript
+// script.js
+document.getElementById("addBtn").addEventListener("click", () => {
+  let val = document.getElementById("task").value;
+  if(val.trim() !== "") {
+    let li = document.createElement("li");
+    li.innerText = val;
+    document.getElementById("list").appendChild(li);
+    document.getElementById("task").value = ""; // clear input
+  }
+});
+```
+
+**Expected Output**: New items appear in the bulleted list dynamically.
+
+**Short Explanation**: Using `createElement` generates a new HTML tag in memory, and `appendChild` attaches it to the existing `<ul>` in the DOM.

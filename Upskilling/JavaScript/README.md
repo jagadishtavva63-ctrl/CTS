@@ -1,22 +1,20 @@
 # JavaScript
 
-## Learning Objectives
-* Understand the core concepts of JavaScript
-* Apply JavaScript in real-world scenarios
-* Prepare for interview questions
+**Overview**: The programming language of the Web, used to add interactivity to websites.
 
-## Topics Covered
-* Introduction and Basics
-* Advanced Features
-* Practical Implementations
+**Topics Covered**:
+- Variables & Data Types
+- Functions & Scope
+- DOM Manipulation
+- Events
+- Async/Await
 
-## Folder Structure
-* `Notes/`: Important concepts and syntax
-* `HandsOn/`: Code exercises
-* `Assignments/`: Practice problems
-* `Quiz/`: Interview-style questions
-* `Screenshots/`: Execution outputs
+**Folder Structure**:
+- `Notes/`
+- `HandsOn/`
+- `Assignments/`
+- `Quiz/`
+- `Screenshots/`
 
-## References
-* W3Schools
-* Official Documentation
+**References**:
+- MDN JavaScript Guide

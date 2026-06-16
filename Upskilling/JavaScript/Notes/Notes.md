@@ -1,23 +1,31 @@
 # JavaScript Notes
 
-## Variables
-`let` and `const`
-Always use const unless the value needs to change.
-
-## Arrow Functions
-`const add = (a, b) => a + b;`
-Shorter syntax for writing functions.
-
-## DOM Manipulation
-// Change text content
-`document.getElementById("demo").innerHTML = "Hello";`
-Used to interact with HTML elements dynamically.
-
-## Promises and Async/Await
+### Variables
+Always use `let` and `const`. Avoid `var` due to hoisting and block-scope issues.
 ```javascript
-async function getData() {
-    let res = await fetch('url');
-    let data = await res.json();
-}
+const name = "John"; // Can't be reassigned
+let age = 20;        // Can be reassigned
 ```
-Used for handling asynchronous operations like API calls.
+
+### Arrow Functions
+Shorter syntax. Doesn't bind its own `this`.
+```javascript
+const greet = (name) => `Hello ${name}`;
+```
+
+### DOM Elements
+To interact with HTML:
+```javascript
+let btn = document.getElementById("myBtn");
+btn.addEventListener("click", () => alert("Clicked!"));
+```
+
+### Common Mistakes
+* Confusing `==` (loose equality) with `===` (strict equality). Always use `===`.
+* Trying to modify a `const` array entirely (you can push, but can't reassign).
+
+### Interview Tips
+* **Q**: What is closure?
+  * **A**: A function bundled together with its lexical environment. (A function remembering variables from outside its scope).
+* **Q**: Event Bubbling vs Capturing?
+  * **A**: Bubbling goes from inner to outer element. Capturing is outer to inner.

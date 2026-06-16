@@ -1,1 +1,1 @@
-// JavaScript logic\nconsole.log('JavaScript Exercise 1 loaded');
+document.getElementById('btn').addEventListener('click', () => alert('Button Clicked!'));
