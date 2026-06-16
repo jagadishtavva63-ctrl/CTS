@@ -1,1 +1,1 @@
-// jQuery logic\nconsole.log('jQuery Exercise 3 loaded');
+$('#btn').click(function(){ $('ul').append('<li>Orange</li>'); });

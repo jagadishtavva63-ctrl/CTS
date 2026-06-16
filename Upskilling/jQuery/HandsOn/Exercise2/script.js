@@ -1,1 +1,1 @@
-// jQuery logic\nconsole.log('jQuery Exercise 2 loaded');
+$('#btn').click(function(){ $('#box').animate({width: '200px'}); });

@@ -1,11 +1,37 @@
-# Assignment 2
+# Assignment 2: Fade Toggle
 
-## Problem Statement
-Create a practical example demonstrating jQuery basics.
+**Problem Statement**: Use a single button to toggle the visibility of an element with a fade effect.
 
-## Solution
-// Implemented logic for jQuery assignment 2.
-// Ensures all requirements are met cleanly.
+**Concepts Used**: `fadeToggle()`.
 
-## Expected Output
-The code executes and produces the correct result as taught in notes.
+**Solution**:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<style>
+  #box { width: 100px; height: 100px; background: red; }
+</style>
+</head>
+<body>
+  <button id="toggleBtn">Toggle Fade</button>
+  <br><br>
+  <div id="box"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+```
+```javascript
+// script.js
+$(document).ready(function(){
+  $("#toggleBtn").click(function(){
+    $("#box").fadeToggle("slow");
+  });
+});
+```
+
+**Expected Output**: The red box slowly fades out and fades in when the button is clicked.
+
+**Short Explanation**: `fadeToggle` automatically checks if the element is visible or hidden and performs the opposite fade action.

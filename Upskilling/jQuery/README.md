@@ -1,22 +1,19 @@
 # jQuery
 
-## Learning Objectives
-* Understand the core concepts of jQuery
-* Apply jQuery in real-world scenarios
-* Prepare for interview questions
+**Overview**: A fast, small, and feature-rich JavaScript library.
 
-## Topics Covered
-* Introduction and Basics
-* Advanced Features
-* Practical Implementations
+**Topics Covered**:
+- Selectors
+- Event Methods
+- Effects & Animations
+- DOM Manipulation
 
-## Folder Structure
-* `Notes/`: Important concepts and syntax
-* `HandsOn/`: Code exercises
-* `Assignments/`: Practice problems
-* `Quiz/`: Interview-style questions
-* `Screenshots/`: Execution outputs
+**Folder Structure**:
+- `Notes/`
+- `HandsOn/`
+- `Assignments/`
+- `Quiz/`
+- `Screenshots/`
 
-## References
-* W3Schools
-* Official Documentation
+**References**:
+- jQuery API Documentation

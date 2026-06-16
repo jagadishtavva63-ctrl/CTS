@@ -1,11 +1,37 @@
-# Assignment 1
+# Assignment 1: Hide/Show Text
 
-## Problem Statement
-Create a practical example demonstrating jQuery basics.
+**Problem Statement**: Add a button to hide a paragraph, and another button to show it.
 
-## Solution
-// Implemented logic for jQuery assignment 1.
-// Ensures all requirements are met cleanly.
+**Concepts Used**: Event handlers, `hide()`, `show()`.
 
-## Expected Output
-The code executes and produces the correct result as taught in notes.
+**Solution**:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+  <p id="msg">This is a secret message.</p>
+  <button id="hideBtn">Hide</button>
+  <button id="showBtn">Show</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
+```
+```javascript
+// script.js
+$(document).ready(function(){
+  $("#hideBtn").click(function(){
+    $("#msg").hide();
+  });
+  $("#showBtn").click(function(){
+    $("#msg").show();
+  });
+});
+```
+
+**Expected Output**: The paragraph disappears when 'Hide' is clicked, and reappears on 'Show'.
+
+**Short Explanation**: Using jQuery makes adding event listeners much shorter than vanilla `document.getElementById`.

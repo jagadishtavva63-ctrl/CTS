@@ -1,1 +1,1 @@
-// jQuery logic\nconsole.log('jQuery Exercise 1 loaded');
+$('#btn').click(function(){ $('#txt').text('Text Changed via jQuery'); });
