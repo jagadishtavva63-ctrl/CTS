@@ -1,0 +1,1 @@
+-- Create table\nCREATE TABLE Employees1 (\n  Id INT PRIMARY KEY,\n  Name VARCHAR(50)\n);

@@ -1,0 +1,1 @@
+-- Insert and select\nINSERT INTO Employees3 VALUES (1, 'Alice');\nSELECT * FROM Employees3;
