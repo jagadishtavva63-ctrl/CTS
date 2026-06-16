@@ -1,1 +1,9 @@
-/* Basic styling */\nbody { margin: 0; font-family: sans-serif; }\nh1 { color: #333; }
+.box {
+  background: lightgreen;
+  padding: 20px;
+}
+@media (min-width: 768px) {
+  .box {
+    background: lightblue;
+  }
+}

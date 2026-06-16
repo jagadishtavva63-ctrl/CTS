@@ -1,21 +1,30 @@
-# CSS3 Notes
+# CSS3 Student Notes
 
-## Flexbox
-`display:flex;`
-`justify-content:center;`
-`align-items:center;`
-Used for aligning elements horizontally and vertically.
+### Box Model
+Everything is a box.
+* **Content** - The actual text/image.
+* **Padding** - Space inside the border.
+* **Border** - The line around the padding.
+* **Margin** - Space outside the border.
 
-## Grid
-`display: grid;`
-`grid-template-columns: auto auto auto;`
-Used for two-dimensional layouts.
+*Tip:* Always use `box-sizing: border-box;` so padding doesn't increase total width.
 
-## Media Queries
-`@media (max-width: 600px) { ... }`
-Makes the website responsive on mobile devices.
+### Flexbox vs Grid
+* Use **Flexbox** for 1D layouts (rows OR columns).
+* Use **Grid** for 2D layouts (rows AND columns).
 
-## Transitions
-// Change button color on hover
-`transition: background-color 0.3s ease;`
-Used for smooth animations.
+```css
+.container {
+  display: flex;
+  justify-content: center; /* horizontal center */
+  align-items: center; /* vertical center */
+}
+```
+
+### Common Mistakes
+* Forgetting that `margin` collapses.
+* Using `absolute` positioning when `flexbox` would be easier.
+
+### Interview Prep
+* **Q**: What's the difference between `display: none` and `visibility: hidden`?
+  * **A**: `display: none` removes the element from the document flow. `visibility: hidden` hides it but keeps the empty space.

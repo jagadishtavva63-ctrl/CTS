@@ -1,22 +1,21 @@
 # CSS3
 
-## Learning Objectives
-* Understand the core concepts of CSS3
-* Apply CSS3 in real-world scenarios
-* Prepare for interview questions
+**Overview**: Cascading Style Sheets level 3. Used to style and layout web pages.
 
-## Topics Covered
-* Introduction and Basics
-* Advanced Features
-* Practical Implementations
+**Topics Covered**:
+- Selectors
+- Box Model
+- Flexbox
+- Grid Layout
+- Media Queries
 
-## Folder Structure
-* `Notes/`: Important concepts and syntax
-* `HandsOn/`: Code exercises
-* `Assignments/`: Practice problems
-* `Quiz/`: Interview-style questions
-* `Screenshots/`: Execution outputs
+**Folder Structure**:
+- `Notes/`
+- `HandsOn/`
+- `Assignments/`
+- `Quiz/`
+- `Screenshots/`
 
-## References
-* W3Schools
-* Official Documentation
+**References**:
+- CSS-Tricks Flexbox Guide
+- MDN CSS Basics
