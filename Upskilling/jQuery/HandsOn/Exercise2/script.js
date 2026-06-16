@@ -1,0 +1,1 @@
+// jQuery logic\nconsole.log('jQuery Exercise 2 loaded');
