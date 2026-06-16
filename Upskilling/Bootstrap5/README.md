@@ -1,22 +1,18 @@
 # Bootstrap5
 
-## Learning Objectives
-* Understand the core concepts of Bootstrap5
-* Apply Bootstrap5 in real-world scenarios
-* Prepare for interview questions
+**Overview**: The most popular CSS framework for building responsive, mobile-first sites.
 
-## Topics Covered
-* Introduction and Basics
-* Advanced Features
-* Practical Implementations
+**Topics Covered**:
+- Grid System
+- Components (Navbar, Cards, Modals)
+- Utility Classes
 
-## Folder Structure
-* `Notes/`: Important concepts and syntax
-* `HandsOn/`: Code exercises
-* `Assignments/`: Practice problems
-* `Quiz/`: Interview-style questions
-* `Screenshots/`: Execution outputs
+**Folder Structure**:
+- `Notes/`
+- `HandsOn/`
+- `Assignments/`
+- `Quiz/`
+- `Screenshots/`
 
-## References
-* W3Schools
-* Official Documentation
+**References**:
+- Bootstrap Documentation

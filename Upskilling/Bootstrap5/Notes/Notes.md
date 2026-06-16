@@ -1,18 +1,26 @@
 # Bootstrap5 Notes
 
-## Container
-`.container` for fixed width.
-`.container-fluid` for full width.
+### Container
+Use `.container` for a responsive fixed width.
+Use `.container-fluid` for full width.
 
-## Grid System
-12 column layout.
-`.row`, `.col-md-6`
-Used to structure pages easily.
+### Grid
+The grid has 12 columns.
+* Small screens: `.col-sm-*`
+* Medium screens: `.col-md-*`
+* Large screens: `.col-lg-*`
 
-## Buttons
-`<button class="btn btn-primary">Click</button>`
-Built in classes for quick styling.
+### Utilities
+Instead of writing CSS, use:
+* `.m-3` (margin)
+* `.p-2` (padding)
+* `.bg-primary` (background color)
+* `.text-center` (alignment)
 
-## Utilities
-`.mt-3` (margin top), `.p-2` (padding), `.text-center`
-Helpful classes to avoid writing custom CSS.
+### Common Mistakes
+* Nesting `.container` inside another `.container`. (Always use `.row` inside `.container`).
+* Forgetting the viewport meta tag in the HTML head.
+
+### Interview Tips
+* **Q**: What are the main breakpoints?
+  * **A**: sm (576px), md (768px), lg (992px), xl (1200px), xxl (1400px).

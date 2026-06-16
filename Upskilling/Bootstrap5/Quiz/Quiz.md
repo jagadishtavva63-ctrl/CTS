@@ -1,31 +1,39 @@
-# Bootstrap5 Quiz
+# Bootstrap5 Practice
 
-1. What is Bootstrap?
-Answer: A CSS framework for developing responsive websites.
+1. **MCQ**: Bootstrap grid has how many columns?
+   - A) 10
+   - B) 12
+   - **Answer**: B
 
-2. Which class provides a responsive fixed width container?
-Answer: `.container`
+2. **True/False**: Bootstrap 5 requires jQuery.
+   - **Answer**: False (It dropped jQuery dependency).
 
-3. The Bootstrap grid system is based on how many columns?
-Answer: 12
+3. **Short Answer**: Which class centers text?
+   - **Answer**: `.text-center`
 
-4. Which class adds zebra-stripes to a table?
-Answer: `.table-striped`
+4. **MCQ**: Class for a large button?
+   - A) .btn-large
+   - B) .btn-lg
+   - **Answer**: B
 
-5. Which class is used to create a big box for calling extra attention?
-Answer: `.jumbotron` (note: removed in v5, but contextually .p-5 .mb-4 .bg-light .rounded)
+5. **True/False**: `.container-fluid` spans 100% of the viewport width.
+   - **Answer**: True
 
-6. Which button class is used to create a large button?
-Answer: `.btn-lg`
+6. **Short Answer**: What does `mt-4` do?
+   - **Answer**: Adds margin-top of size 4.
 
-7. Which class is used to create a badge?
-Answer: `.badge`
+7. **MCQ**: Which class creates a flexible container?
+   - A) .d-flex
+   - B) .flex-container
+   - **Answer**: A
 
-8. Which class creates a progress bar?
-Answer: `.progress-bar`
+8. **True/False**: To use Bootstrap JS, you only need the CSS file.
+   - **Answer**: False (You need the JS bundle).
 
-9. Which class is used to create a flexbox container?
-Answer: `.d-flex`
+9. **Short Answer**: How to make an image responsive?
+   - **Answer**: `.img-fluid`
 
-10. Which class adds a margin to the top of an element?
-Answer: `.mt-*`
+10. **MCQ**: What color does `.text-danger` apply?
+    - A) Red
+    - B) Yellow
+    - **Answer**: A
