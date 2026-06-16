@@ -1,0 +1,1 @@
+// JavaScript logic\nconsole.log('JavaScript Exercise 1 loaded');
