@@ -1,11 +1,28 @@
-# Assignment 1
+# Assignment 1: User Registration Form
 
-## Problem Statement
-Create a practical example demonstrating HTML5 basics.
+**Problem Statement**: Create a registration form capturing name, email, password, and gender.
 
-## Solution
-// Implemented logic for HTML5 assignment 1.
-// Ensures all requirements are met cleanly.
+**Concepts Used**: HTML Forms, Input Types, Radio Buttons.
 
-## Expected Output
-The code executes and produces the correct result as taught in notes.
+**Solution**:
+```html
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Register</h2>
+  <form>
+    <label>Name: <input type="text" required></label><br><br>
+    <label>Email: <input type="email" required></label><br><br>
+    <label>Password: <input type="password" required></label><br><br>
+    <label>Gender:</label>
+    <input type="radio" name="gender" value="m"> Male
+    <input type="radio" name="gender" value="f"> Female<br><br>
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
+```
+
+**Expected Output**: A clean form with basic browser validation.
+
+**Short Explanation**: Used HTML5 input types (`email`, `password`) so the browser handles basic format checking automatically.

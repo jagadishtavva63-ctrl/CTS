@@ -1,31 +1,61 @@
-# HTML5 Quiz
+# HTML5 Practice Questions
 
-1. What does HTML stand for?
-Answer: Hyper Text Markup Language
+1. **MCQ**: What does HTML stand for?
+   - A) Hyper Text Markup Language
+   - B) High Text Markup Language
+   - C) Hyper Tabular Markup Language
+   - **Answer**: A
 
-2. Choose the correct HTML element for the largest heading:
-Answer: `<h1>`
+2. **True/False**: The `<canvas>` element is used to draw graphics on a web page.
+   - **Answer**: True
 
-3. What is the correct HTML element for inserting a line break?
-Answer: `<br>`
+3. **Short Answer**: Which tag is used for the largest heading?
+   - **Answer**: `<h1>`
 
-4. Which input type defines a slider control?
-Answer: `range`
+4. **MCQ**: Which attribute specifies an alternate text for an image?
+   - A) title
+   - B) src
+   - C) alt
+   - **Answer**: C
 
-5. Which HTML element is used to specify a footer for a document or section?
-Answer: `<footer>`
+5. **True/False**: HTML tags are case-sensitive.
+   - **Answer**: False (But lowercase is the standard best practice).
 
-6. In HTML, which attribute is used to specify that an input field must be filled out?
-Answer: `required`
+6. **Short Answer**: How do you create a numbered list?
+   - **Answer**: `<ol>`
 
-7. Which element is used to play audio files?
-Answer: `<audio>`
+7. **MCQ**: Which element plays video files?
+   - A) `<media>`
+   - B) `<video>`
+   - C) `<movie>`
+   - **Answer**: B
 
-8. How can you open a link in a new tab/browser window?
-Answer: `<a href="url" target="_blank">`
+8. **True/False**: `<!DOCTYPE html>` is an HTML tag.
+   - **Answer**: False (It's a declaration for the browser).
 
-9. Which HTML element defines navigation links?
-Answer: `<nav>`
+9. **Short Answer**: Tag for creating a drop-down list?
+   - **Answer**: `<select>`
 
-10. What is the correct HTML for adding a background color?
-Answer: `<body style="background-color:yellow;">`
+10. **MCQ**: Which HTML element defines navigation links?
+    - A) `<nav>`
+    - B) `<navigate>`
+    - C) `<section>`
+    - **Answer**: A
+
+11. **True/False**: `<iframe>` is used to display a web page within a web page.
+    - **Answer**: True
+
+12. **Short Answer**: How to specify that an input field is mandatory?
+    - **Answer**: Add the `required` attribute.
+
+13. **MCQ**: Which input type is used for a date picker?
+    - A) date
+    - B) datetime
+    - C) time
+    - **Answer**: A
+
+14. **True/False**: The `<mark>` tag highlights text.
+    - **Answer**: True
+
+15. **Short Answer**: What tag is used for footer content?
+    - **Answer**: `<footer>`

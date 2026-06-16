@@ -1,22 +1,20 @@
 # HTML5
 
-## Learning Objectives
-* Understand the core concepts of HTML5
-* Apply HTML5 in real-world scenarios
-* Prepare for interview questions
+**Overview**: HTML5 is the standard markup language for documents designed to be displayed in a web browser.
 
-## Topics Covered
-* Introduction and Basics
-* Advanced Features
-* Practical Implementations
+**Topics Covered**:
+- HTML Tags & Attributes
+- Semantic Elements
+- Forms & Input Types
+- Media Tags (Audio/Video)
 
-## Folder Structure
-* `Notes/`: Important concepts and syntax
-* `HandsOn/`: Code exercises
-* `Assignments/`: Practice problems
-* `Quiz/`: Interview-style questions
-* `Screenshots/`: Execution outputs
+**Folder Structure**:
+- `Notes/`: Important points & syntax
+- `HandsOn/`: Small exercises
+- `Assignments/`: Practice tasks
+- `Quiz/`: Short questions
+- `Screenshots/`: Output images
 
-## References
-* W3Schools
-* Official Documentation
+**References**:
+- W3Schools: HTML5 Tutorial
+- MDN Web Docs
