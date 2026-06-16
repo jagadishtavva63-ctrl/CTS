@@ -168,3 +168,36 @@ Adds shadow effects around an element.
 
 A technique used to make web pages adapt to different screen sizes.
 
+
+
+# CSS3 Quiz
+
+1. What does CSS stand for?
+Answer: Cascading Style Sheets
+
+2. Which HTML attribute is used to define inline styles?
+Answer: `style`
+
+3. Which property is used to change the background color?
+Answer: `background-color`
+
+4. How do you add a background color for all <h1> elements?
+Answer: `h1 {background-color:#FFFFFF;}`
+
+5. Which CSS property is used to change the text color of an element?
+Answer: `color`
+
+6. Which CSS property controls the text size?
+Answer: `font-size`
+
+7. How do you display hyperlinks without an underline?
+Answer: `a {text-decoration:none;}`
+
+8. How do you make a list that lists its items with squares?
+Answer: `list-style-type: square;`
+
+9. How do you select an element with id "demo"?
+Answer: `#demo`
+
+10. How do you select elements with class name "test"?
+Answer: `.test`
