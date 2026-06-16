@@ -1,31 +1,39 @@
 # C# Quiz
 
-1. What is the correct syntax to output "Hello World" in C#?
-Answer: `Console.WriteLine("Hello World");`
+1. **MCQ**: C# is primarily an:
+   - A) Object-oriented language
+   - B) Functional language
+   - **Answer**: A
 
-2. How do you insert COMMENTS in C# code?
-Answer: `// This is a comment`
+2. **True/False**: C# code compiles directly to machine code.
+   - **Answer**: False (It compiles to IL - Intermediate Language).
 
-3. Which data type is used to create a variable that should store text?
-Answer: `string`
+3. **Short Answer**: Which keyword prints to console?
+   - **Answer**: `Console.WriteLine()`
 
-4. How do you create a variable with the numeric value 5?
-Answer: `int x = 5;`
+4. **MCQ**: Data type for true/false?
+   - A) bit
+   - B) bool
+   - **Answer**: B
 
-5. Which operator is used to add together two values?
-Answer: `+`
+5. **True/False**: In C#, a class can inherit from multiple classes.
+   - **Answer**: False (Multiple inheritance is not allowed for classes, only interfaces).
 
-6. To declare an array in C#, define the variable type with:
-Answer: `[]`
+6. **Short Answer**: Keyword to inherit a class?
+   - **Answer**: `:`
 
-7. True or False: C# is an alias of C++
-Answer: False
+7. **MCQ**: What handles memory management in .NET?
+   - A) Garbage Collector
+   - B) Memory Manager
+   - **Answer**: A
 
-8. How do you create a method in C#?
-Answer: `static void MyMethod()`
+8. **True/False**: `string` is a value type.
+   - **Answer**: False (It's a reference type).
 
-9. How do you call a method in C#?
-Answer: `MyMethod();`
+9. **Short Answer**: Keyword to handle exceptions?
+   - **Answer**: `try catch`
 
-10. Which keyword is used to create a class in C#?
-Answer: `class`
+10. **MCQ**: Which method is the entry point?
+    - A) start()
+    - B) Main()
+    - **Answer**: B

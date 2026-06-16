@@ -1,1 +1,1 @@
-// Student model\npublic class Student {\n  public int Id { get; set; }\n  public string Name { get; set; }\n}
+public class Student { public int Id {get;set;} }

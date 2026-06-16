@@ -1,1 +1,8 @@
-// Main entry point\nusing System;\nclass Program {\n  static void Main() {\n    Console.WriteLine(\"Hello from CSharp\");\n  }\n}
+using System;
+using System.Collections.Generic;
+class Program {
+  static void Main() {
+    List<int> nums = new List<int>{1,2,3};
+    Console.WriteLine(nums.Count);
+  }
+}

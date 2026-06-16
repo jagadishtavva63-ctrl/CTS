@@ -1,18 +1,35 @@
 # C# Notes
 
-## Variables and Data Types
-`int`, `string`, `bool`, `double`
-Strongly typed language.
+### Object Oriented Programming (OOP)
+* **Encapsulation**: Hiding internal state using properties.
+* **Inheritance**: Reusing code from a base class (`class Derived : Base`).
+* **Polymorphism**: Overriding methods.
+* **Abstraction**: Hiding implementation details using interfaces or abstract classes.
 
-## Object Oriented Programming
-Classes and Objects.
-Encapsulation, Inheritance, Polymorphism, Abstraction.
+### Collections
+Use generic collections instead of arrays when size is dynamic.
+```csharp
+List<string> names = new List<string>();
+names.Add("John");
+```
 
-## LINQ
-// Get active employees
-`var activeEmployees = employees.Where(e => e.IsActive).ToList();`
-Language Integrated Query simplifies data manipulation.
+### Exception Handling
+```csharp
+try {
+  // risky code
+} catch(Exception ex) {
+  Console.WriteLine(ex.Message);
+} finally {
+  // executes regardless of error
+}
+```
 
-## Exception Handling
-`try`, `catch`, `finally`
-Used to handle runtime errors gracefully.
+### Common Mistakes
+* Forgetting that strings are immutable.
+* Not using `using` blocks for disposable objects.
+
+### Interview Tips
+* **Q**: Difference between `String` and `StringBuilder`?
+  * **A**: String is immutable (creates new object on change). StringBuilder is mutable and much faster for multiple concatenations.
+* **Q**: Value type vs Reference type?
+  * **A**: Value types (int, struct) are stored on the stack. Reference types (class, string) are stored on the heap.

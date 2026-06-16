@@ -1,22 +1,18 @@
-# CSharp
+# C# (.NET)
 
-## Learning Objectives
-* Understand the core concepts of CSharp
-* Apply CSharp in real-world scenarios
-* Prepare for interview questions
+**Overview**: An object-oriented language created by Microsoft, widely used for enterprise applications.
 
-## Topics Covered
-* Introduction and Basics
-* Advanced Features
-* Practical Implementations
+**Topics Covered**:
+- OOPs Concepts
+- Collections
+- Exception Handling
 
-## Folder Structure
-* `Notes/`: Important concepts and syntax
-* `HandsOn/`: Code exercises
-* `Assignments/`: Practice problems
-* `Quiz/`: Interview-style questions
-* `Screenshots/`: Execution outputs
+**Folder Structure**:
+- `Notes/`
+- `HandsOn/`
+- `Assignments/`
+- `Quiz/`
+- `Screenshots/`
 
-## References
-* W3Schools
-* Official Documentation
+**References**:
+- Microsoft C# Documentation
