@@ -1,4 +1,4 @@
-/*
+﻿/*
 ============================================================
 CTS Deep Skilling
 Lab 3 - Using EF Core CLI to Create and Apply Migrations

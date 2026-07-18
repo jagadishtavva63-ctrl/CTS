@@ -1,0 +1,12 @@
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\bin\Debug\net10.0\ConverterLib.deps.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\bin\Debug\net10.0\ConverterLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\bin\Debug\net10.0\ConverterLib.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\obj\Debug\net10.0\ConverterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\obj\Debug\net10.0\ConverterLib.AssemblyInfoInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\obj\Debug\net10.0\ConverterLib.AssemblyInfo.cs
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\obj\Debug\net10.0\ConverterLib.csproj.CoreCompileInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\obj\Debug\net10.0\ConverterLib.sourcelink.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\obj\Debug\net10.0\ConverterLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\obj\Debug\net10.0\refint\ConverterLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\obj\Debug\net10.0\ConverterLib.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\9. NUnit-Handson\ConverterLib\obj\Debug\net10.0\ref\ConverterLib.dll

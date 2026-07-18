@@ -1,4 +1,4 @@
-/*
+﻿/*
 ============================================================
 CTS Deep Skilling
 Lab 8 - Managing Migrations and Schema Changes

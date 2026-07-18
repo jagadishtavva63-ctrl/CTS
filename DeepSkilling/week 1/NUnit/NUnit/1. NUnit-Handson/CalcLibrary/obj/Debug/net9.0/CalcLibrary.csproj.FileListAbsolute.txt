@@ -1,0 +1,12 @@
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\bin\Debug\net9.0\CalcLibrary.deps.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\bin\Debug\net9.0\CalcLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\bin\Debug\net9.0\CalcLibrary.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.sourcelink.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\obj\Debug\net9.0\refint\CalcLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\1. NUnit-Handson\CalcLibrary\obj\Debug\net9.0\ref\CalcLibrary.dll

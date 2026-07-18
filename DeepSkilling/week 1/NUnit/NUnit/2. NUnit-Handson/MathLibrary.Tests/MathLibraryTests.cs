@@ -31,12 +31,12 @@ namespace MathLibrary.Tests
     [TestFixture]
     public class MathLibraryTests
     {
-        private MathLibrary.MathLibrary math;
+        private global::MathLibrary.MathLibrary math;
 
         [SetUp]
         public void Init()
         {
-            math = new MathLibrary.MathLibrary();
+            math = new global::MathLibrary.MathLibrary();
         }
 
         [TearDown]
@@ -56,7 +56,7 @@ namespace MathLibrary.Tests
         {
             int actual = math.Subtraction(a, b);
 
-            Assert.AreEqual(expected, actual);
+            ClassicAssert.AreEqual(expected, actual);
         }
 
         //==============================
@@ -70,7 +70,7 @@ namespace MathLibrary.Tests
         {
             int actual = math.Multiplication(a, b);
 
-            Assert.AreEqual(expected, actual);
+            ClassicAssert.AreEqual(expected, actual);
         }
 
         //==============================
@@ -83,7 +83,7 @@ namespace MathLibrary.Tests
         {
             int actual = math.Division(a, b);
 
-            Assert.AreEqual(expected, actual);
+            ClassicAssert.AreEqual(expected, actual);
         }
 
         [Test]
@@ -97,9 +97,9 @@ namespace MathLibrary.Tests
             }
             catch (ArgumentException ex)
             {
-                Assert.AreEqual("Division by zero", ex.Message);
+                ClassicAssert.AreEqual("Division by zero", ex.Message);
 
-                Assert.IsInstanceOf<ArgumentException>(ex);
+                ClassicAssert.IsInstanceOf<ArgumentException>(ex);
             }
         }
 
@@ -112,11 +112,11 @@ namespace MathLibrary.Tests
         {
             math.Addition(20, 30);
 
-            Assert.AreEqual(50, math.GetResult);
+            ClassicAssert.AreEqual(50, math.GetResult);
 
             math.AllClear();
 
-            Assert.AreEqual(0, math.GetResult);
+            ClassicAssert.AreEqual(0, math.GetResult);
         }
     }
 }
