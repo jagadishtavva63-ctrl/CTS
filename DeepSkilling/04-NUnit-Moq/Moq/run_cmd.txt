@@ -1,0 +1,6 @@
+Run only form .Test folder
+
+
+dotnet restore
+dotnet build
+dotnet test

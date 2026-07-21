@@ -1,2 +1,0 @@
-INSERT INTO Products VALUES (1, 99.99);
-SELECT * FROM Products WHERE Price > 50;

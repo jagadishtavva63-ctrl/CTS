@@ -1,2 +1,0 @@
-INSERT INTO Orders VALUES (1, 100), (2, 200);
-SELECT SUM(Amount) FROM Orders;

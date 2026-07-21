@@ -1,0 +1,24 @@
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\bin\Debug\net10.0\MathLibrary.deps.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\bin\Debug\net10.0\MathLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\bin\Debug\net10.0\MathLibrary.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.AssemblyInfoInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.AssemblyInfo.cs
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.sourcelink.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\refint\MathLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\ref\MathLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\bin\Debug\net10.0\MathLibrary.deps.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\bin\Debug\net10.0\MathLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\bin\Debug\net10.0\MathLibrary.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.AssemblyInfoInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.AssemblyInfo.cs
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.sourcelink.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\refint\MathLibrary.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\MathLibrary.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\2. NUnit-Handson\MathLibrary\obj\Debug\net10.0\ref\MathLibrary.dll

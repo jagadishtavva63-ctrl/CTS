@@ -1,0 +1,6 @@
+dir /s *.csproj
+
+
+dotnet restore
+dotnet build
+dotnet test

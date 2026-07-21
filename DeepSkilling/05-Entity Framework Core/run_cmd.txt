@@ -1,0 +1,5 @@
+From vscode
+
+dotnet restore
+dotnet build
+dotnet run

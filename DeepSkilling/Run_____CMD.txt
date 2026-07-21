@@ -1,0 +1,11 @@
+java
+01----from cmd   
+02--- from cmd
+
+sql
+03
+
+from vscode
+
+04---Run .Test folder
+05,06,07---

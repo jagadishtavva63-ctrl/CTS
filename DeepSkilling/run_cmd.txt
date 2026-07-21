@@ -1,1 +1,18 @@
-swagger
+dotnet restore
+dotnet build
+dotnet run
+
+
+
+for Nunit and Moq----> Run from .Test file 
+
+dotnet restore
+dotnet build
+dotnet test
+
+
+
+
+
+
+ for.....server............    /swagger

@@ -1,0 +1,24 @@
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\bin\Debug\net10.0\AccountsManagerLib.deps.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\bin\Debug\net10.0\AccountsManagerLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\bin\Debug\net10.0\AccountsManagerLib.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.AssemblyInfoInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.AssemblyInfo.cs
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.sourcelink.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\refint\AccountsManagerLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\week 1\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\ref\AccountsManagerLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\bin\Debug\net10.0\AccountsManagerLib.deps.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\bin\Debug\net10.0\AccountsManagerLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\bin\Debug\net10.0\AccountsManagerLib.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.AssemblyInfoInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.AssemblyInfo.cs
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.sourcelink.json
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\refint\AccountsManagerLib.dll
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\AccountsManagerLib.pdb
+C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\04-NUnit-Moq\NUnit\NUnit\4. NUnit-Handson\AccountsManagerLib\obj\Debug\net10.0\ref\AccountsManagerLib.dll

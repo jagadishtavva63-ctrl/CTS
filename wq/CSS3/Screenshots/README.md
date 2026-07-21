@@ -1,1 +1,0 @@
-Place actual W3Schools quiz screenshots and hands-on screenshots here.

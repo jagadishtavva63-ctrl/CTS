@@ -1,1 +1,0 @@
-CREATE TABLE Products (Id INT, Price DECIMAL);
