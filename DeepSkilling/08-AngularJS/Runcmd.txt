@@ -1,0 +1,15 @@
+Open a second Command Prompt.
+
+cd C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\08-AngularJS\student-course-portal
+
+npx json-server --watch db.json --port 3000
+
+
+Open a second Command Prompt.
+
+
+cd C:\Users\tavva\OneDrive\Desktop\CTS\DeepSkilling\08-AngularJS\student-course-portal
+
+
+
+ng serve --open
